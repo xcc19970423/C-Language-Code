@@ -1,0 +1,4 @@
+﻿  test.c
+e:\vswork\test_3_31_1\test_3_31_1\test.c(288): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\vswork\test_3_31_1\test_3_31_1\test.c(292): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  test_3_31_1.vcxproj -> E:\VSwork\test_3_31_1\Debug\test_3_31_1.exe
